@@ -5,7 +5,7 @@
 - 👩‍🦯 [Bluetooth Enabled Assistance Device for the Visually Impaired](https://drive.google.com/file/d/1O2B3j9nAwEOZjDeRMjlTvnh-6a-Lu9yD/view?usp=sharing)
 - Publication: [AN INTELLIGENT SYSTEM TO ENHANCE VISUALLY-IMPAIRED NAVIGATION AND DISASTER ASSISTANCE USING GEO-BASED POSITIONING AND MACHINE LEARNING](https://aircconline.com/csit/papers/vol11/csit110907.pdf)
 - [Impact-of-Noise-on-Performance-of-Speech-Recognition-mechanism](https://github.com/wliang11hua/Impact-of-Noise-on-Performance-of-Speech-Recognition-mechanism)
-- 
+- [Simplified Quant Strategy: Game Theory & Returns in Chinese Stock Market]([https://github.com/wliang11hua/Impact-of-Noise-on-Performance-of-Speech-Recognition-mechanism](https://github.com/wliang-whl/Simplified-Quant-Strategy--Game-Theory---Returns-in-Stock-Market))
 ### 🌱 Current Project and Progress
 - 🔭 I’m currently working with Professor Soroush Vosoughi on Using Large Language Model (LLM) to Study Human Learning Strategy
 - 👯 I’m looking to collaborate on some interesting projects and kaggle competitions 
